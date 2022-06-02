@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone 12 pro",
+            "desc": "This is my phone",
+            "price": 999,
+            "color": "33505a",
+            "image": "https://www.gizmochina.com/wp-content/uploads/2019/09/Apple-iPhone-11-1-500x500.jpg"
+        },
+        {
+            "id": 2,
+            "name": "iphone 12 pro",
+            "desc": "This is my phone",
+            "price": 999,
+            "color": "33505a",
+            "image": "https://www.gizmochina.com/wp-content/uploads/2019/09/Apple-iPhone-11-1-500x500.jpg"
+        },
+        {
+            "id": 3,
+            "name": "iphone 12 pro",
+            "desc": "This is my phone",
+            "price": 999,
+            "color": "33505a",
+            "image": "https://www.gizmochina.com/wp-content/uploads/2019/09/Apple-iPhone-11-1-500x500.jpg"
+        },
+        {
+            "id": 4,
+            "name": "iphone 12 pro",
+            "desc": "This is my phone",
+            "price": 999,
+            "color": "33505a",
+            "image": "https://www.gizmochina.com/wp-content/uploads/2019/09/Apple-iPhone-11-1-500x500.jpg"
+        }
+    ]
+}
